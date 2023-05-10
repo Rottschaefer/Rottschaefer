@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left">
-  Olá, sou o Eduardo, Desenvolvedor Web Full-Stack focado em construir aplicações que resolvam problemas latentes do nosso mundo atual.
+  Olá, sou o Eduardo, Desenvolvedor Web Full-Stack focado em construir aplicações que solucionem problemas para os clientes.
 </p>
 
 <p align="left">
