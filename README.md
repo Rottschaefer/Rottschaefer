@@ -2,10 +2,12 @@
 
 <p align="left">
   Olá, sou o Eduardo, Desenvolvedor Web Full-Stack focado em construir aplicações que solucionem problemas para os clientes.
+  
+  Hello, I'm Eduardo, Full-Stack Web Developer focused on building applications that solve problems for customers.
 </p>
 
 <p align="left">
-  🤖 Tecnologias: <br/>
+  🤖 Tecnologias/Technologies: <br/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -21,7 +23,7 @@
 </p>
 
 <p align="left">
-  📩 Contato:
+  📩 Informações de contato/Contact Information:
 </p>
 
 <p align="left">
