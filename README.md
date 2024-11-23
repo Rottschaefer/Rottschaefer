@@ -1,8 +1,13 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-<p align="left">  
+<h2 align="left">  
   Hello, I'm Eduardo :)
-</p>
+
+  
+</h2>
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Rottschaefer&show_icons=true&include_all_commits=true&count_private=true&theme=dracula)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs?username=Rottschaefer&layout=compact&langs_count=7&theme=dracula)
+
 
 
 <p align="left">
