@@ -1,13 +1,15 @@
-<h2 align="left">  
+<h3 align="left">  
   Hello, I'm Eduardo :)
 
   
-</h2>
+</h3>
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Rottschaefer&show_icons=true&include_all_commits=true&count_private=true&theme=dracula)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rottschaefer&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" alt="Estatísticas do GitHub" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rottschaefer&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" height="200px" />
+</div>
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs?username=Rottschaefer&layout=compact&langs_count=7&theme=dracula)
-
+<h3>WAKA STATS</h3>
 <!--START_SECTION:waka-->
 
 ```rust
