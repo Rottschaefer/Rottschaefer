@@ -9,6 +9,15 @@
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs?username=Rottschaefer&layout=compact&langs_count=7&theme=dracula)
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 23 November 2024 - To: 23 November 2024
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <p align="left">
