@@ -8,7 +8,8 @@
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs?username=Rottschaefer&layout=compact&langs_count=7&theme=dracula)
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <p align="left">
   📩 Contact Information:
