@@ -13,16 +13,16 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 23 November 2024 - To: 20 January 2025
+From: 23 November 2024 - To: 22 January 2025
 
-Total Time: 56 hrs 14 mins
+Total Time: 58 hrs 49 mins
 
-Python        35 hrs 19 mins  >>>>>>>>>>>>>>>>---------   62.78 %
-C             16 hrs 12 mins  >>>>>>>------------------   28.80 %
-JavaScript    3 hrs 44 mins   >>-----------------------   06.65 %
-Rust          20 mins         -------------------------   00.61 %
-INI           16 mins         -------------------------   00.50 %
-Git Config    12 mins         -------------------------   00.36 %
+Python        35 hrs 22 mins  >>>>>>>>>>>>>>>----------   60.10 %
+C             16 hrs 34 mins  >>>>>>>------------------   28.18 %
+JavaScript    5 hrs 53 mins   >>>----------------------   10.03 %
+Rust          20 mins         -------------------------   00.58 %
+INI           16 mins         -------------------------   00.48 %
+Git Config    12 mins         -------------------------   00.34 %
 Text          5 mins          -------------------------   00.17 %
 Other         1 min           -------------------------   00.04 %
 ```
