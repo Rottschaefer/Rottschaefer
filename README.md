@@ -6,26 +6,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Rottschaefer&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" alt="Estatísticas do GitHub" height="200px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rottschaefer&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" height="200px" />
 </div>
-
-<h3>WAKA STATS</h3>
-<!--START_SECTION:waka-->
-
-```rust
-From: 23 November 2024 - To: 11 March 2025
-
-Total Time: 66 hrs 37 mins
-
-Python        37 hrs 47 mins  >>>>>>>>>>>>>>-----------   56.47 %
-C             17 hrs 48 mins  >>>>>>>------------------   26.60 %
-JavaScript    9 hrs 15 mins   >>>----------------------   13.83 %
-Markdown      29 mins         -------------------------   00.73 %
-Rust          20 mins         -------------------------   00.51 %
-Other         17 mins         -------------------------   00.44 %
-```
-
-<!--END_SECTION:waka-->
 
 <p align="left">
   📩 Contact Information:
