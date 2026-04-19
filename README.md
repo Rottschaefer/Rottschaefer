@@ -4,9 +4,6 @@
   
 </h3>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rottschaefer&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" alt="Estatísticas do GitHub" height="200px" />
-</div>
 
 <p align="left">
   📩 Contact Information:
